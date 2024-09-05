@@ -40,9 +40,12 @@ int main() {
     cout << "Value of register variable d: " << d << endl;
 
     return 0;
+OUTPUT:
+1.Size of data types
+![Screenshot 2024-09-05 153032](https://github.com/user-attachments/assets/26453ab5-bdf4-4a3c-ae07-aaaca3afcd4c)
 
-Compile and Run:
-Compile the code using a C++ compiler and run it to observe the sizes of various data types and the values of variables with different storage classes.
+2.Storage class:
+![Screenshot 2024-09-05 153040](https://github.com/user-attachments/assets/eb451f52-9708-408e-849d-e572b88e5086)
 
 Conclusion:
 Understanding storage classes and the sizeof operator in C++ provides crucial insights into variable management and memory allocation. Storage classes control variable scope and lifetime, while sizeof helps in determining memory usage for different data types. This knowledge is fundamental for efficient programming and memory management. The example illustrates practical applications and reinforces these core concepts effectively.
